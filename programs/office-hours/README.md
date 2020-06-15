@@ -2,7 +2,7 @@
 
 Rancher Community Office Hours is a live stream hosted by Adrian Goins and joined by Rancher Labs employees and select members of the community, in which we answer live questions about Rancher Products and Projects and general questions about Kubernetes. 
 
-It's simulcast on [YouTube][2], [Twitch][3], and [Facebook Live][4], with chat taking place in the `#office-hours` channel on the [Rancher Users Slack](https://slack.rancher.io).
+It's broadcast on [YouTube][2], with chat taking place in the `#office-hours` channel on the [Rancher Users Slack](https://slack.rancher.io).
 
 ## Mission and Intent
 
@@ -17,19 +17,13 @@ Anyone interested in Kubernetes is welcome to join. The content will include inf
 We host the office hours monthly, at two different times:
 
 - EMEA Session - Third Wednesday of the month at 0900 ET
-- US Session - Third Wednesday of the month at 1300 PT
+- US Session - Second Wednesday of the month at 1300 PT
 
-Join any of these channels to follow along:
-
-- [YouTube][2]
-- [Twitch][3]
-- [Facebook Live][4]
-
-During the streams, join `#office-hours` on the [Rancher Users Slack][1] to participate in the discussion.
+Join us on [YouTube][2] to watch the stream, and during the streams, join `#office-hours` on the [Rancher Users Slack][1] to participate in the discussion.
 
 ## How It Works
 
-We will answer prepared questions or live questions during the show. Prepared questions take priority because we can update them with the answers after the show. This helps build a community knowledge base for Rancher and Kubernetes that benefits everyone.
+We'll answer prepared questions or live questions during the show. Prepared questions take priority because we can update them with the answers after the show. This helps build a community knowledge base for Rancher and Kubernetes that benefits everyone.
 
 If the question is well-formed but needs more research before we can answer it, we'll make a note to answer it on a future show.
 
@@ -85,7 +79,5 @@ Questions that are a good fit for office hours are specific enough that they rai
 Participation in the Rancher Office Hours live stream as a subject matter expert is a great way to enhance your visibility in the community and grow your personal brand. If you'd like to join the sessions and help answer questions and share your experiences, please reach out to `@adrian` on the [Rancher Users Slack][1].
 
 [1]: https://slack.rancher.io	"Join our community today"
-[2]: https://www.youtube.com/channel/UCCQCh2OtuU7sVoN9r__M0ig	"Rancher TV on YouTube"
-[3]: https://www.twitch.tv/ranchertelevision	"Rancher TV on Twitch"
-[4]: https://www.facebook.com/rancherlabs/	"Rancher on Facebook"
+[2]: https://youtube.com/c/rancher	"Rancher TV on YouTube"
 
