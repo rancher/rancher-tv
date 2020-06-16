@@ -10,7 +10,7 @@ At the moment it consists of a single program, the Rancher Office Hours. For mor
 
 ## Programs
 
-- [programs/office-hours](Office Hours)
+- [Office Hours](programs/office-hours/)
 
 ## Channels
 
