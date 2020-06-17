@@ -16,8 +16,10 @@ Anyone interested in Kubernetes is welcome to join. The content will include inf
 
 We host the office hours monthly, at two different times:
 
-- EMEA Session - Third Wednesday of the month at 0900 ET
+- EMEA Session - Third Wednesday of the month at 1300 UTC
 - US Session - Second Wednesday of the month at 1300 PT
+
+[Convert this to your local time zone.](https://www.timeanddate.com/worldclock/converter.html)
 
 Join us on [YouTube][2] to watch the stream, and during the streams, join `#office-hours` on the [Rancher Users Slack][1] to participate in the discussion.
 
