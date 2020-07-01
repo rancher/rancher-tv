@@ -17,7 +17,8 @@ Anyone interested in Kubernetes is welcome to join. The content will include inf
 We host the office hours monthly, at two different times:
 
 - EMEA Session - Third Wednesday of the month at 1300 UTC
-- US Session - Second Wednesday of the month at 1300 PT
+- US Session - Second or Third Wednesday of the month at 1300 PT
+  - This will vary each month according to the schedule of the monthly Rancher meetup, so that Office Hours follows the meetup.
 
 [Convert this to your local time zone.](https://www.timeanddate.com/worldclock/converter.html)
 
